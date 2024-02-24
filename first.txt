@@ -2,3 +2,5 @@ Gitの演習を始めます。
 基本的なワークフローを学びます。
 ・git add
 ・git commit
+・git status：現在のadd, commit状況などを表示
+・git log：commit履歴が見れる
